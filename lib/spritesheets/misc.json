@@ -1,0 +1,27 @@
+{
+
+"images": [
+    "misc.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 105, 37, 0, 26, 14],
+    [108, 1, 105, 37, 0, 79, 14],
+    [1, 40, 146, 44, 0, 61, 21],
+    [149, 40, 100, 600, 0, 0, 0]
+],
+
+"animations": {
+    "misc/leafplatform_left": { "frames": [0] },
+    "misc/leafplatform_right": { "frames": [1] },
+    "misc/cloud": { "frames": [2] },
+    "misc/vine": { "frames": [3] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:7a06ab6451e0dbd6524d32c6a7d13bac:77985b91e30a0e27f7ff066fae8f1b2f:8940225683741d51cffc2e8ee1e8f353$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

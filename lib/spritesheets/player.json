@@ -1,0 +1,25 @@
+{
+
+"images": [
+    "player.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 39, 57, 0, -11, -7],
+    [1, 60, 39, 57, 0, -16, -7],
+    [42, 1, 33, 57, 0, -16, -7]
+],
+
+"animations": {
+    "player/player_jump_left": { "frames": [0] },
+    "player/player_jump_right": { "frames": [1] },
+    "player/player_alive": { "frames": [2] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:bdc7264fd1487cf127ce220c4d6e7038:be3b6904c411bc8224b5c8f835d8ef2d:86d5339b780aedd87b35e2b7c0a7e11b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
